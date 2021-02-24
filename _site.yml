@@ -1,6 +1,6 @@
 name: "Practice Website - 2/23/2021"
 navbar:
-  title: "Our Collaborative Website"
+  title: "IF I change it here?  Our Collaborative Website"
   left:
     - text: "Cars"
       href: index.html
